@@ -1,4 +1,4 @@
-**Background information:**<br> 
+# **Background information:**<br> 
 World Resources Institute (WRI) is a global research non-profit organization focused on sustainability. WRI works on seven areas: food, forests, water, ocean, cities, energy, and climate. WRI works under a threefold approach:
 •	Count it
 •	Change it
@@ -6,7 +6,7 @@ World Resources Institute (WRI) is a global research non-profit organization foc
 The organization emphasizes the importance of conducting unbiased research and using data to understand sustainability issues. 
 One of the WRI Energy Program’s main tools is the Energy Access Explorer (EAE). The EAE is an online, open-source, interactive platform that allows decision-makers in Sub-Saharan countries to visualize data related to energy demand and supply. When using the EAE, decision-makers can quickly construct heatmaps to identify underserved areas or areas with high potential for renewable energy generation. 
 
-**Objective:** <br>
+## **Objective:** <br>
 Currently, the EAE Platform is available in Ethiopia, Nigeria, Kenya, Uganda, Tanzania, Zambia, and India. However, the EAE is willing to increase its outreach to countries with a large population without energy access. The purpose of this assignment is to build a custom google map for South Sudan, the least-electrified country in the world in 2020. 
 
 **Design:**<br>
