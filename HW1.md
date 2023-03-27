@@ -48,6 +48,34 @@ Moreover, there may exist underdeveloped areas in urban settings that lack acces
 ### **Lookup table**<br>
 The map was created using [Google Map Styling Wizard](https://mapstyle.withgoogle.com/). The base theme was "Dark".  The following table contains the map features and their styles. 
 
+| Feature type | Element type | Stylers |
+| ------------ | ------------ | -------------------------- |
+| All | Geometry | Color: Dark Green #008D6A |
+| All | Labels / Text fill | Color: Yellow #F3B229  |
+| All | Labels / text outline | Color: Black #000000, Weight 2  |
+| Country | Geometry / Stroke | Color: Light Green #96BC33  |
+| Province | Geometry / Stroke | Color: Light Green #96BC33  |
+| Land parcel | Labels / Text fill | Color: White #ffffff  |
+| Landscape / Human-made | Geometry / Stroke | Color: Orange #F7941D  |
+| Landscape / Human-made | Geometry | Color: Dark Green #008D6A  |
+| Landscape / Natural | Geometry | Color: Dark Green #008D6A  |
+| Points of interest | Labels / Text fill | Color: #ffffff  |
+| Points of interest | Labels / Text fill outline | Color: Grey #94948b Weight 1  |
+| POI / Park | Labels / Text fill | Color: White #ffffff  |
+| POI / Park | Labels / Text outline | Color: Grey #94948b Weight 1  |
+| POI / Park | Geometry / Fill | Color: Opaque blue #023E58  |
+| Road  | Geometry | Color: Grey #94948b |
+| Road  | Labels / Text fill | Color: White #ffffff |
+| Road  | Labels / Text outline| Color: Grey #94948b Weight 1 |
+| Road / Highway  | Geometry / Fill | Color: Black #000000 |
+| Road / Highway  | Labels / Text fill | Color: White #ffffff |
+| Road / Highway  | Labels / Text outline | Color: Grey #94948b Weight 1 |
+| Transit  | Labels / Text fill | Color: White #ffffff |
+| Transit  | Labels / Text outline | Color: Grey #94948b Weight 1 |
+| Transit/Line  | Geometry / Fill | Color: Grey #94948b Weight 1 |
+| Transit/Station  | Geometry | Color: Grey #94948b |
+| Water  | Geometry | Color: Light Blue #0291C2 |
+| Water  | Text fill | Color: White #ffffff |
 
 
 ## **Downloadable JSON file**<br>
