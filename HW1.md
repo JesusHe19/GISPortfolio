@@ -45,5 +45,11 @@ Moreover, there may exist underdeveloped areas in urban settings that lack acces
 
 ![image](https://user-images.githubusercontent.com/52460741/227833632-ec11e9b0-e089-4fb6-8940-9a74bba4a3bd.png)
 
+### **Lookup table**<br>
+The map was created using [Google Map Styling Wizard](https://mapstyle.withgoogle.com/). The base theme was "Dark".  The following table contains the map features and their styles. 
 
-[Download the JSON file here](./Code.json)
+
+
+## **Downloadable JSON file**<br>
+
+[Click here](./Code.json)
