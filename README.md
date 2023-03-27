@@ -13,4 +13,4 @@ I expect to learn how to use GIS visualization and analysis tools to create prod
 
 **Portfolio**
 
-[HW2] (./HW1.md)
+![HW2] (HW1.md)
