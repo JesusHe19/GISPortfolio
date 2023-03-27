@@ -25,3 +25,6 @@ WRI works in different countries of Africa.
 
 **Zoom at specific country level South Sudan)**
 ![image](https://user-images.githubusercontent.com/52460741/227831588-fb3afc26-4fe6-4e47-8413-1fa1f3d0356b.png)
+
+
+[Download the JSON file here](./Code.json)
