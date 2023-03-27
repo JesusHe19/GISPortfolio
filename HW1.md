@@ -83,7 +83,7 @@ The map was created using [Google Map Styling Wizard](https://mapstyle.withgoogl
 [Click here](./Code.json)
 
 ### **Instructions for using the JSON file**<br>
-
+The user will need to download the file containing the json code, then will need to open google wizard maps and create a new project. When creating a project, the option "Import JSON should be selected". Then the code should be pasted. Hence, the style will be imported and the user can add more features to the map. 
 
 
 ### **Reflection**<br>
