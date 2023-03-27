@@ -81,3 +81,18 @@ The map was created using [Google Map Styling Wizard](https://mapstyle.withgoogl
 ## **Downloadable JSON file**<br>
 
 [Click here](./Code.json)
+
+### **Instructions for using the JSON file**<br>
+
+
+
+### **Reflection**<br>
+This task allowed me to understand the importance of choosing a right color palette that reflects the organization's mission. Regarding time allocation, I expected a long time for creating the color palette, as this would require reading about the organization's work and getting familiarized to their colors. However, a time consuming task was creating the HTML on github, as it required me to get more training on how to use github, especially how to embed links. Overall, I expected to use 10 hours on creating the map, nonetheless the final time required was 11.5 hours. This is because I needed to learn more about Google Map Styling Wizard and Github. 
+
+The following table contain the estimated hours for each requirement of this assignment. 
+![image](https://user-images.githubusercontent.com/52460741/227836923-01937b07-18d5-4769-b32f-f4de4828e30c.png)
+
+The following table contains the actual hours invested for each requirement of this assignment. 
+![image](https://user-images.githubusercontent.com/52460741/227836955-c7d8a39b-c460-46ed-9630-82b0cd4d8b05.png)
+
+
