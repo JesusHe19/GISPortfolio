@@ -20,4 +20,4 @@ Here are some examples of GIS projects, I have completed: <br>
 
 [Mapping UNHCR Statistics about refugees flows across countries](./UNHCR_Population_Statistics.md)<br>
 
-[Cleaning and preparing datasets so that they can be geolocated](./Preparing and cleaning data.md)<br>
+[Cleaning and preparing datasets so that they can be geolocated](./Data cleaning.md)<br>
