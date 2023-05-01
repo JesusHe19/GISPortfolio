@@ -16,6 +16,6 @@ I expect to learn how to use GIS visualization and analysis tools to create prod
 
 **Portfolio**
 Here are some examples of GIS projects, I have completed: <br>
-[Creating a custom map for an organization](./HW1.md)
-[Mapping UNHCR Statistics about refugees flows across countries](./UNHCR_Population_Statistics.md)
+[Creating a custom map for an organization](./HW1.md)<br>
+[Mapping UNHCR Statistics about refugees flows across countries](./UNHCR_Population_Statistics.md)<br>
 [Cleaning and preparing datasets so that they can be geolocated](./Preparing and cleaning data.md)
